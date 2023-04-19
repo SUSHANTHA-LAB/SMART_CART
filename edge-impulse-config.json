@@ -1,0 +1,11 @@
+{
+    "host": "edgeimpulse.com",
+    "jwtToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjkwMzEzLCJpYXQiOjE2NzQxMTU5OTEsImV4cCI6MTY3NjcwNzk5MX0.hLS19vsljpvKHEPilUrwGb0_2IDKvYb2kWiHjAbzzw4",
+    "lastVersionCheck": 1675344869463,
+    "dataForwarderDevices": {},
+    "daemonDevices": {},
+    "runner": {},
+    "linuxProjectId": 178307,
+    "audio": "hw:0,0",
+    "camera": "/base/soc/i2c0mux/i2c@1/ov5647@36"
+}

@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "name": "oreo choco cream",
+      "weight": 120,
+      "price": 30
+    },
+    {
+      "id": 2,
+      "name": "Fab",
+      "weight": 120,
+      "price": 30
+    }
+  ]

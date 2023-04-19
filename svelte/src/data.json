@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "name": "oreo",
+    "weight": 120,
+    "price": 30,
+    "manufacturer": "Cadbury",
+    "display_name": "OREO - Choco Cream",
+    "nutri_facts": "Energy kcal: 483, Sugars g: 40, Total Fat g: 20, Sodium g: 420, Protien g: 5, Cholesterol mg: 0."
+  },
+  {
+    "id": 2,
+    "name": "hideandseek",
+    "weight": 120,
+    "price": 30,
+    "manufacturer": "Parle",
+    "display_name": "HIDE&SEEK - STRAWBARRY flavour",
+    "nutri_facts": "Energy kcal: 500, Sugars g: 80, Total Fat g: 12, Sodium g: 142, Protien g: 4.5, Cholesterol mg: 0."
+  },
+  {
+    "id": 3,
+    "name": "roastedchanna",
+    "weight": 200,
+    "price": 75,
+    "manufacturer": "24 MANTRA ORGANIC",
+    "display_name": "Organic Roasted Chana",
+    "nutri_facts": "Energy kcal: 305, Sugars g: 3.75, Total Fat g: 0.9, Sodium g: 0.7, Protien g: 17, Cholesterol mg: 0, Iron mg: 6, Calcium mg: 130."
+    },
+    {
+    "id": 4,
+    "name": "greentea",
+    "weight": 100,
+    "price": 165,
+    "manufacturer": "Lipton",
+    "display_name": "GREEN TEA",
+    "nutri_facts": "FLAVOURED TEA. LEMON MAX 10%, HONEY MAX 6%. CONTENTS FLAVOURED GREEN TEA-TEA BAGS. INGREDIENTS GREEN TEA, NATURAL FLAVOURING SUBSTANCES."
+    },
+    {
+    "id": 5,
+    "name": "infusiondigest",
+    "weight": 100,
+    "price": 200,
+    "manufacturer": "24 MANTRA ORGANIC",
+    "display_name": "Infusion Easy Digest",
+    "nutri_facts": "Herbal infusion bags.    Composition: Vilvam (Aegle marmelos)-957mg, Moorva (Marsdenisatenaciss)- 351mg, Gambhar (gmelineaer- borea)- 178.5mg, Patali (Sterospermumcolias) 1785mg Syonaka (Oroxylumindicum) 175.5mg Negara (Zingiber officinale)-75mg, Yavanaka (Carumcopticum 75m Jeeraka* (cuminum cumin)-75mg, Pippal (Piper Longum)-34.5mg are organic Each Infusion bag contains 15 g of above ingredients. Dosage: One bag 3 Bnes day."
+    }
+    
+]
